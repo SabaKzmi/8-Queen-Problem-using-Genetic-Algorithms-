@@ -13,6 +13,6 @@ Here each chromosome has 8 genes each representing a row on the chessboard. The 
 For example the gene [6, 2, 0, 5, 7, 4, 1, 3] represents the board bellow:  
 
 <p align="center">
-  <img src="[image_url](https://github.com/SabaKzmi/8-Queen-Problem-using-Genetic-Algorithms/blob/9c760321778e1e6f3a4b9de35ff53545cac8e08a/example-board.png)" alt="example board" />
+  <img src="https://github.com/SabaKzmi/8-Queen-Problem-using-Genetic-Algorithms/blob/1991b21f426097c2861b493bad588511709721c7/example-board.png" alt="example board" />
 </p>
 
