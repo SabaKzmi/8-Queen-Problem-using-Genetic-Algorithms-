@@ -11,4 +11,4 @@ Genetic algorithms are problem-solving methods inspired by natural evolution. Th
 #### Permutation Encoding
 Here each chromosome has 8 genes each representing a row on the chessboard. The content of the gene indicates the column where the queen is placed. Using permutation encoding resolves the issue of queens threatening each other within the same row or column.  
 For example the gene [6, 2, 0, 5, 7, 4, 1, 3] represents the board bellow:
-
+![example board](https://github.com/SabaKzmi/8-Queen-Problem-using-Genetic-Algorithms/blob/9c760321778e1e6f3a4b9de35ff53545cac8e08a/example-board.png)
