@@ -9,6 +9,6 @@ Genetic algorithms are problem-solving methods inspired by natural evolution. Th
 - order crossover (OX)
 - swap mutation
 #### Permutation Encoding
-Here each chromosome has 8 genes each representing a row on the chessboard. The content of the gene indicates the column where the queen is placed. Using permutation encoding resolves the issue of queens threatening each other within the same row or column.
+Here each chromosome has 8 genes each representing a row on the chessboard. The content of the gene indicates the column where the queen is placed. Using permutation encoding resolves the issue of queens threatening each other within the same row or column.  
 For example the gene [6, 2, 0, 5, 7, 4, 1, 3] represents the board bellow:
 
